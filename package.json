@@ -1,0 +1,28 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "Flatten nested array values to a single level",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frangeris/flatten.git"
+  },
+  "keywords": [
+    "arrays",
+    "nested",
+    "recursion"
+  ],
+  "author": "Frangeris Peguero <frangeris.20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frangeris/flatten/issues"
+  },
+  "homepage": "https://github.com/frangeris/flatten#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
