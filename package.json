@@ -1,6 +1,6 @@
 {
   "name": "flatten-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flatten nested array values to a single level",
   "main": "index.js",
   "scripts": {
