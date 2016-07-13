@@ -1,4 +1,4 @@
-var flatten = require('../src/flatten.js');
+var flatten = require('../');
 var assert = require('chai').assert;
 
 describe('flatten', function() {
